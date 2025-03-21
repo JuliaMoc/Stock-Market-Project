@@ -44,12 +44,12 @@ The raw Kaggle dataset required several preprocessing steps:
 
 ### 5. Files
 
-**Stock_Market_Dataset**: Original dataset from Kaggle.
-**Stock_Market_Dataset_Merged.csv**: This is the main merged dataset containing data from 2019 to 2023 for all companies in the dataset.
-**Stock_Market_Dataset_Share.csv**: Contains data for the top 5 tech companies (Apple, Google, Microsoft, Meta, and Nvidia).
-**Stock_Market_Dataset_Share_End.csv**: Contains the yearly closing prices for the top 5 tech companies, used for further analysis and visualizations in Tableau.
-**Tableau Visualization**: Tech Stock Performance (Also available on Tableau Public: https://public.tableau.com/app/profile/julia.mochel/viz/TECHSTOCKPERFORMANCETop5/Top5Performance).
-**Stock_Market_Data_Exploratory & Apple_Stock_Price_Prediction**: Jupyter notebooks containing all data processing, analysis, visualization code and price prediction.
+- **Stock_Market_Dataset**: Original dataset from Kaggle.
+- **Stock_Market_Dataset_Merged.csv**: This is the main merged dataset containing data from 2019 to 2023 for all companies in the dataset.
+- **Stock_Market_Dataset_Share.csv**: Contains data for the top 5 tech companies (Apple, Google, Microsoft, Meta, and Nvidia).
+- **Stock_Market_Dataset_Share_End.csv**: Contains the yearly closing prices for the top 5 tech companies, used for further analysis and visualizations in Tableau.
+- **Tableau Visualization**: Tech Stock Performance (Also available on Tableau Public: https://public.tableau.com/app/profile/julia.mochel/viz/TECHSTOCKPERFORMANCETop5/Top5Performance).
+- **Stock_Market_Data_Exploratory & Apple_Stock_Price_Prediction**: Jupyter notebooks containing all data processing, analysis, visualization code and price prediction.
 
 ### 6. Data Visualization
 
