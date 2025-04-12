@@ -5,6 +5,8 @@
 This project focuses on the analysis of the top 5 tech companies. The Kaggle dataset contains stock market data, specifically from the US stock market. The dataset includes stock prices and volume data for various sectors (commodities, cryptocurrency, tech companies, and other successful US companies) from 2019 to 2023. 
 The project incorporates data processing, exploratory data analysis (EDA), and machine learning for stock price prediction.
 
+Note: This is a self-initiated learning project using open-source data for practice and portfolio development.
+
 ## Table of Contents
 
 1. Project Overview
